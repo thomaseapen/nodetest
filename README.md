@@ -1,5 +1,7 @@
 # nodetest
 
+git clone https://github.com/thomaseapen/nodetest.git
+
 cd simpleapi
 
 npm install express --save
